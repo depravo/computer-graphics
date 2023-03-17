@@ -197,7 +197,6 @@ namespace colorPicker
                 if (!_changeInProgress)
                 {
                     ChangeColor(space);
-                    textBox.ClearUndo();
                 }
             }
             else
